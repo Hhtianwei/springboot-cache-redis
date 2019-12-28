@@ -1,2 +1,2 @@
 # springboot-cache-redis
-springboot 使用redis进行缓存 
+springboot @EnableCaching 模块使用redis进行缓存数据
